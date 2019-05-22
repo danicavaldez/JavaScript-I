@@ -43,9 +43,11 @@ const keven = {
   name: 'Keven',
   email: 'kmummery2@wikimedia.org',
   gender: 'M'
+  hello: function(speak)
+  }
 }
 
-console.log(keven);
+console.log(kennan);
 
 // 4,gmartinson3@illinois.edu,Gannie,M
 const gannie = {
@@ -55,7 +57,7 @@ const gannie = {
   gender: 'M'
 }
 
-console.log(keven);
+console.log(gannie);
 
 // 5,adaine5@samsung.com,Antonietta,F
 const antonietta = {
